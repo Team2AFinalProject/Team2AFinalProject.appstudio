@@ -18,8 +18,24 @@
           "!type": "External",
           "file": [
             "forms",
-            "Form1",
-            "Form1.json"
+            "login",
+            "login.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "weather",
+            "weather.json"
+          ]
+        },
+        {
+          "!type": "External",
+          "file": [
+            "forms",
+            "calendar",
+            "calendar.json"
           ]
         }
       ],
@@ -39,7 +55,7 @@
       "eslintRules": null,
       "expanded_pmp": null,
       "extraheaders": null,
-      "firstform": "Form1",
+      "firstform": "login",
       "fontFamily": "system",
       "homescreenTitle": "",
       "icon": "nsb/images/512.png",
